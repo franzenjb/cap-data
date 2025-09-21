@@ -1,0 +1,362 @@
+Community Adaptation Program (CAP) Evaluation Report: Lessons for the American Red Cross
+
+Prepared for American Red Cross Leadership
+September 30, 2025
+
+I. Executive Summary
+
+The Community Adaptation Program (CAP) is a vital initiative designed to strengthen the American Red Cross (ARC) by expanding disaster capacity and building long-term community resilience. Since its inception in 2022, CAP has demonstrably added value across four critical areas: quality of service, cost containment, speed of aid delivery, and scalability potential. This comprehensive evaluation, incorporating both quantitative data and extensive qualitative insights from over 150 key informant interviews for Disaster Relief Operations (DROs) alone, including 12 community stakeholder interviews from recent disasters (Hurricanes Debby, Helene, Milton, and California Wildfires), aims to provide senior leadership with a clear, impactful, and actionable understanding of CAP's operational and strategic worth to inform decisions beyond FY27.
+
+Key Findings:
+
+Quality of Service: CAP partners have demonstrably improved the quality of Red Cross disaster services by expanding access, ensuring cultural appropriateness, and accelerating aid delivery, which enhances client dignity and uptake. A key strength is reaching rural and underserved "invisible populations"—such as migrant workers, elderly caregivers, and the Hispanic population—that are often overlooked by traditional response channels. Partners act as trusted local messengers, leveraging established relationships to connect with these communities.
+
+Service quality is enhanced through culturally appropriate resources, including:
+• Adapted Meals: In Latino and farming communities, partners provided culturally sensitive foods like rice and beans when standard Red Cross meals were not appropriate, and at other events, they facilitated food selections that incentivized attendance.
+• Bilingual Support: Partners offered crucial translation services, enabling full conversations with Spanish-speaking community members where Red Cross staff sometimes lacked language capacity.
+• Trusted Messengers: In communities struggling with low literacy or poor internet connectivity, partners worked through trusted local leaders like pastors to personalize assistance and set up appointments, overcoming challenges with QR code sign-ups.
+
+These tailored approaches have led to measurably higher client uptake and faster assistance. For example, in Terrebonne Parish during Hurricane Francine (DR 207-25), CAP's involvement led to a 93% Immediate Assistance (IA) completion rate, significantly higher than the overall 67% rate for selected communities in that disaster. Similarly, in the South Texas Floods (DR 503-25), CAP outreach contributed to a 58.3% IA pick-up rate, compared to the nationwide average of 51%. Recent analysis from Hurricanes Debby, Helene, and Milton further confirms that CAP-supported resilience hubs and bilingual outreach expanded reach into previously overlooked populations.
+
+Cost Containment (ROI): The Community Adaptation Program (CAP) has demonstrably reduced Red Cross operational costs through partner contributions of in-kind donations and services that the Red Cross would otherwise have to fund. The CAP team meticulously tracks and monetizes these contributions, which include feeding, distribution of emergency supplies (DES), facilities, and volunteer efforts, using methodologies consistent with Red Cross data capture (e.g., 5266). The analysis focuses on the value-added contributions from partners by excluding CAP staff salaries and enhancements from the cost containment calculation itself.
+
+Key examples of these cost savings include:
+• Feeding Assistance: Partners provide hot meals and food supplies, significantly offsetting Red Cross feeding expenses. During DR 540-25 (Tennessee Tornados), one DRO staff member reported, "I did not pay a dime for feeding," as local communities and CAP partners covered all associated costs.
+• Volunteer Mobilization: Partners mobilize their own local volunteers for tasks like damage assessment, distribution, and shelter shifts, reducing the need for the Red Cross to deploy its own staff.
+• Facilities and Equipment: Partners provide donated spaces for Immediate Assistance (IA) centers or cooling stations, eliminating facility rental costs. They also leverage their own resources, like donated box trucks, for supply distribution.
+• Supply Distribution: Partners not only distribute supplies but sometimes purchase them as well, supplementing the resources coming from Red Cross national headquarters.
+
+Quantitatively, the program has generated over $1.6 million ($1,606,305) in total cost containment across multiple Disaster Relief Operations (DROs). This represents a 28.3% Return on Investment (ROI) on the $5,669,272 invested in partner enhancements. During Hurricane Francine (DR 207-25) alone, nearly $250,000 in cost containment was tracked, comprising $131,937 in direct services and $111,300 in volunteer contributions. In DR 540-25 (Tennessee Tornados), leadership estimated that partner contributions offset $80,000 to $100,000 in immediate costs. Additional cost savings were documented in California Wildfire responses and Hurricane Debby operations, where pre-positioned assets (generators, refrigeration units, vehicles) enabled sustained operations without Red Cross capital expenditures.
+
+It is important to note that these figures may be conservative, as interviewees acknowledged "reporting shortfalls" due to the dynamic nature of disaster response, suggesting actual cost savings could be even higher.
+
+Speed of Delivery: A consistent and powerful finding across multiple Disaster Relief Operations (DROs) is the Community Adaptation Program's (CAP) ability to remarkably accelerate service delivery, often allowing partners to respond more quickly than centralized Red Cross operations. This speed is a direct result of pre-existing "blue-sky" relationships, local readiness, pre-positioned assets, and the "transference of trust" built before a disaster strikes.
+
+Partners are frequently the "first on the ground—feeding within hours" or activating the next day after impact, significantly outpacing traditional responses. This rapid mobilization is crucial when Red Cross staffing is constrained or logistical chains are delayed. Specific examples of this same-day or next-day activation include:
+• During Hurricane Francine (DR 207-25), two hyper-local partners began providing hot meals by dinner on the day the storm passed, and two library locations were running as cooling and charging centers within 24 hours of landfall.
+• In the Madison County tornadoes, church coalitions activated within 24 hours, which not only sped up service but also increased Immediate Assistance (IA) uptake.
+• In one instance during the Tennessee Tornados (DR 540-25), a partner team was on site distributing emergency kits within hours of being contacted.
+• Community stakeholder interviews from September 2025 documented same-day distributions and multi-day service continuity during Hurricanes Helene and Milton, with late-night hotel placements and sustained medical outreach that stakeholders contrasted favorably with prior disasters.
+
+This speed advantage is also quantifiable in the delivery of Disaster Emergency Supplies (DES). A comparative analysis across several DROs shows that CAP partners delivered the first DES services 1 to 4 days faster than Red Cross efforts in the top-damaged counties. For example:
+• Kentucky Floods (DR 539-25): Partners were four days faster.
+• Tennessee Tornados (DR 540-25): Partners were three days faster.
+• FLOCOM (DR 220-25), South Texas Floods (DR 503-25), and MO/AR Storms (DR 535-25): Partners were one day faster.
+• Hurricane Francine (DR 207-25): Partners were active on the same day.
+
+This rapid response is enabled by local assets, such as CAP-funded box trucks, vans, and pre-positioned supplies, which allow partners to bypass logistical delays. A DRO staff member noted the seamlessness of this collaboration: "It was almost like they went in with us together. There was no call up—we just went."
+
+"Halo Effect" (Steady State Impacts): Beyond its critical role in disaster response, the Community Adaptation Program (CAP) generates a significant "Halo Effect" by enhancing the Red Cross's mission, reputation, and community resilience during non-disaster, or "steady-state," periods. This "blue-sky" work focuses on foundational activities like coalition-building and establishing rural trust, which has captured the particular interest of senior leadership. The presence of CAP teams in communities creates positive spillover effects for various daily Red Cross operations.
+
+Key impacts of this Halo Effect include:
+• Coalition Building and Community Trust: A core success of CAP is its ability to build coalitions and help "connect the dots" between diverse local partners, including churches and grassroots organizations. This fosters community resilience and establishes a trusted local presence for the Red Cross before disasters strike, which is especially crucial in rural areas where connections might otherwise be difficult to forge during a major event. This groundwork has built credibility for the Red Cross because of CAP.
+• Volunteer Engagement: Although not an initial program goal, CAP has positively influenced volunteerism. Quantitative analysis comparing the period before CAP (FY20-FY22) to the period with CAP (FY23-FY25) reveals that CAP jurisdictions experienced a +35.92% increase in average annual total volunteers, which is significantly higher than the national average increase of +16.05%. This suggests that a local CAP presence fosters increased community engagement.
+• Community Preparedness and Safety: CAP's localized engagement directly contributes to improved community safety and preparedness outcomes. Data shows that "Homes Made Safer" initiatives in CAP jurisdictions increased by +66.24%, substantially outpacing the national average increase of +14.02%. Similarly, youth preparedness outreach saw a +101.23% increase in CAP jurisdictions, compared to the national average of +39.13%.
+• Averting Brand Risk: An often unseen but critical impact is CAP's role in mitigating brand risk. In FY25, CAP partners were instrumental in resolving or preventing 12 service delivery failures on Level 3+ DROs. This local, responsive network acts as a crucial buffer, helping to avert negative public perception and media coverage for the Red Cross.
+• Partner Capacity: The program's value is also reflected in the partners' own assessment of their improved capabilities. An overwhelming 97% of partners report that CAP improved their ability to serve those impacted by a disaster.
+
+Recent stakeholder interviews emphasize CAP's role as a strategic convener, aligning nonprofit, government, and national actors while providing critical blue-skies resources. The September 2025 analysis highlights the importance of formalizing MOUs, institutionalizing liaison systems, and securing predictable funding for blue-skies assets.
+
+Scalability Potential: While the current dedicated three-person CAP team model is not sustainable nationwide, the evaluation identifies key tactics and principles that are replicable and adaptable for integration into broader Red Cross chapter and regional operations. These include relationship-building, leveraging local credibility, and developing sustainable staffing models for partnership management. September 2025 analysis highlights the importance of formalizing MOUs, institutionalizing liaison systems, and securing predictable funding for blue-skies assets.
+
+Overall Recommendation: CAP should be continued and strategically adapted as a force multiplier for disaster operations and community mobilization, emphasizing partner trust, demonstrated ROI, and network effects. Future efforts should focus on integrating CAP's successful tactics into the wider Red Cross structure to maximize impact and reach across the country.
+
+II. Introduction
+
+The American Red Cross operates within an increasingly complex environment, facing a rise in the frequency and intensity of disasters alongside constrained resources. To address these challenges, the organization launched the Community Adaptation Program (CAP) in 2022, a strategic initiative designed to leverage hyper-local partnerships to expand access to health care, nutritious food, and safe housing in disaster-prone communities—before, during, and after disasters.
+
+This report serves as a critical evaluation of CAP's performance, mandated by senior leadership to inform decisions regarding the program's future beyond FY27. The findings will not only guide the potential continuation, modification, or scaling of CAP but also identify valuable principles and tactics that can be applied across all Red Cross regions and disaster relief operations. The goal is to measure the operational and strategic value of CAP in advancing the American Red Cross's mission through improved community disaster readiness and response.
+
+The evaluation focuses on four critical areas to understand CAP's impact:
+• Quality: How CAP has improved service delivery, expanded reach, and ensured cultural appropriateness.
+• Cost Containment: The extent to which partner contributions defray Red Cross operational costs.
+• Speed: How CAP has accelerated service delivery during both disaster response and steady-state operations.
+• Scalability: Identifying which CAP tactics and activities can be realistically scaled and integrated into broader Red Cross operations without requiring dedicated CAP resources everywhere.
+
+This report is structured to present a clear, data-driven narrative, incorporating compelling stories and direct quotations from stakeholders to provide a holistic view of CAP's successes, challenges, and transformative potential.
+
+III. Evaluation Approach and Methodology
+
+This evaluation of the Community Adaptation Program employs a robust mixed-methods approach, integrating both quantitative and qualitative data collection and analysis to provide a comprehensive understanding of CAP's impact and effectiveness. The methodology is designed to deliver maximum clarity and value to Red Cross leadership.
+
+A. Quantitative Data Collection and Analysis:
+
+Quantitative data is systematically collected and analyzed to measure changes in service speed, volume, and costs associated with CAP interventions. Key operational datasets analyzed include:
+• CAP Disaster Reporting, Cost Containment Reports, Partner Quarterly Reports, and Monthly Reports.
+• Disaster Relief Operations (DRO) Service Delivery Data: This encompasses historical 5266 County-level data, Disaster Current Operations Reports (DCOR), Immediate Assistance (IA) data, SCIA, WebEOC NSS, and SRT.
+• Steady-State Program Data: For regional steady-state programs, data such as volunteer applications, volunteer hours, home fire responses, "Homes Made Safer" figures, blood drives, and youth preparedness outcomes are collected.
+
+Analysis involves descriptive statistics, time-series and trend analysis, and geographic comparisons. This allows for clear comparisons between CAP and non-CAP jurisdictions, or pre- and post-CAP periods, to demonstrate discernible changes. Cost containment is specifically calculated by monetizing partner contributions (e.g., meals, facilities, volunteers), excluding CAP staff salaries and enhancements from the cost containment analysis itself to focus on value-added contributions. Excel is used for cross-sectional analysis, with SPSS supporting correlations and statistical modeling where appropriate.
+
+B. Qualitative Data Collection and Analysis:
+
+A significant component of this evaluation involves key informant interviews, which provide rich storytelling and client-centric examples, offering the "why" behind observed quantitative trends. Over 150 interviews have been conducted for the DRO portion alone, including 12 community stakeholder interviews from Hurricanes Debby, Helene, Milton, and California Wildfires. Additionally, CAP staff steady state interviews with key personnel like Glama Carter and Gary provide crucial insights into blue-sky operations. Interview participants include a diverse range of stakeholders:
+• Red Cross leadership (e.g., Vice Presidents, President of Humanitarian Services).
+• CAP liaisons and CAP field teams.
+• Community partners and community stakeholders.
+• Regional and chapter staff, and DRO staff.
+
+Interviews are semi-structured, recorded (with consent), and transcribed verbatim. A team of trained interviewers, including lead interviewers and note-takers, ensures high-quality, consistent data collection and thematic analysis. Software like Atlas.ti and Allies is used for data coding, management, and sentiment analysis, helping to identify overall positive, neutral, or negative perceptions. The note-takers are specifically tasked with pulling out important quotations that highlight key themes.
+
+C. Transparency and Hypotheses Validation:
+
+The evaluation emphasizes complete transparency in its findings, sharing both positive and negative takeaways. It also aims to validate specific hypotheses regarding CAP's impact, such as higher IA pick-up rates, volunteer recruitment, and home fire responses in CAP jurisdictions, providing explanations and potential attribution for observed differences. This mixed-methods approach, while acknowledging limitations such as potential selection bias and incomplete cost reporting, aims to triangulate results and strengthen the validity of conclusions, offering a credible and actionable view of CAP outcomes.
+
+IV. Key Findings: Disaster Relief Operations (DROs)
+
+CAP's core mandate was to mitigate disaster-caused displacement and integrate hyper-local partners into response efforts, ultimately to defray costs and build community resilience. The evaluation consistently shows CAP's profound impact across service quality, cost containment, and speed of delivery during Disaster Relief Operations (DROs).
+
+A. Quality of Service Delivery
+
+CAP significantly improves the quality of disaster services by expanding access, reaching vulnerable populations, and ensuring culturally appropriate aid.
+
+Increased Access and Reach to "Invisible Populations"
+CAP partners are uniquely positioned to connect with communities and individuals often overlooked by traditional response channels. This includes rural communities and "invisible populations" such as migrant workers, the elderly, elderly caregivers, undocumented residents, and the Hispanic population. Partners act as trusted local messengers, leveraging established relationships and cultural knowledge to reach these groups effectively. As one stakeholder noted during the Hurricane Debby response, "Hispanic population is…the invisible population. CAP partners know how to reach them."
+
+Specific examples of this enhanced reach include:
+• South Texas Floods (DR 503-25): CAP partners actively supported Immediate Assistance (IA) outreach in Cameron and Hidalgo Counties. This contributed to an IA pick-up rate of 58.3%, significantly higher than the nationwide average of 51%.
+• Tennessee Tornados (DR 540-25): Partners played a crucial role in reaching communities with elderly, rural, low-literacy, and poor-connectivity populations who struggled with QR code sign-ups. They personalized assistance by setting up appointments and working through trusted local leaders like pastors or the mayor's wife. Church coalitions like Browns Creek District Association activated within 24 hours, reaching Section 8 residents and isolated pockets across train-track divides.
+• Hurricane Debby (DR 159-25) in Chatham County: A CAP partner was critical in reaching the Hispanic and undocumented communities, which are often considered an "invisible population" there. The partner used their established trust to compile a list of impacted families, who were otherwise unwilling to call the 1-800 Red Cross number due to fear and lack of Spanish-language services. This direct outreach enabled disaster assessments for approximately 40 households that would have otherwise been missed.
+• Kentucky April Storms (DR 539-25): The public library emerged as a critical resiliency hub, maintaining a detailed local resource database ("Start Here Warren County") and providing live updates on disaster-related information. Libraries hired "Resilience Leads" and established the Warren County Resilience Coalition, bringing together local nonprofits, faith-based organizations, and government agencies.
+• General DROs: Partners' hyperlocal intelligence and reconnaissance revealed overlooked towns and households that formal channels would have likely missed. One interviewee stated, "CAP partners weren't afraid to go in the zone and reached the community that wasn't coming out."
+
+Culturally Appropriate Services and Enhanced Dignity
+CAP partners deliver services that align with local cultural needs, which enhances client dignity, improves uptake, and builds community trust.
+
+Examples of culturally appropriate services include:
+• Food Adaptation:
+  ◦ In Latino and farming communities, partners adapted food provisions to include culturally relevant staples like "rice and beans as the ARC food was not appropriate."
+  ◦ During DR 540-25, partners facilitated culturally sensitive food selections at events, which helped to incentivize attendance. In another instance, partners in South Texas provided tacos and other familiar foods to community members.
+  ◦ The International Center in Kentucky created "the first international food pantry" to address dietary needs that standard food distributions may miss.
+• Language Access:
+  ◦ Partners provided Spanish-speaking members for crucial translation services, allowing for "full conversations where ARC had no one that spoke Spanish." This helped overcome language barriers that often prevent non-English speakers from accessing aid.
+  ◦ In Chatham County during Hurricane Debby, a partner's bilingual capabilities were essential for reaching and registering Spanish-speaking residents.
+  ◦ Kentucky partners deployed "5 Pocket Talk translation devices" and human interpreters to ensure comprehensive language support.
+• Trusted Messengers:
+  ◦ Partners leveraged trusted local leaders, such as pastors and promotoras (community health workers), to connect with communities. In Tennessee, a trusted pastor was able to effectively communicate needs-based decisions to a 90% African American community.
+  ◦ Pastor-mediated contact networks ("I asked each pastor to give me at least three people") and active Facebook livestreams declaring feeding and distribution locations proved highly effective.
+• Other Dignity-Enhancing Services:
+  ◦ One CAP staff member noted that providing access to laundry facilities and portable bathrooms was important for meeting cultural needs during DR 540-25. Partners arranged mobile laundry services after local laundromats were destroyed.
+  ◦ Partners provided and installed tarps on the first day of Tennessee tornadoes, allowing people to remain safely in their homes rather than displacing them.
+
+These tailored approaches improve the overall quality of Red Cross services and ensure aid is delivered respectfully and effectively.
+
+Measurable Impacts on Immediate Assistance (IA) Uptake and Resource Provision
+The Community Adaptation Program (CAP) has consistently demonstrated a measurable ability to accelerate intake, assessments, and the distribution of aid, leading to higher uptake rates for financial assistance and the provision of enhanced, often non-traditional, resources that the Red Cross would find difficult to manage alone.
+
+Higher Immediate Assistance (IA) Uptake Rates: CAP partner involvement has correlated with significantly higher completion and pick-up rates for Immediate Assistance (IA). The use of trusted local partners for outreach helps overcome barriers like mistrust, low literacy, or poor connectivity that can hinder traditional sign-up methods like QR codes.
+• During Hurricane Francine (DR 207-25) in Terrebonne Parish, CAP's engagement resulted in a 93% IA completion rate. This is substantially higher than the 88.2% rate for Terrebonne Parish overall and the 67% rate across all selected communities in that disaster. One community stakeholder noted the Red Cross presence was "astounding" compared to previous disasters.
+• In the Tennessee Tornados (DR 540-25), partners in McNairy County supported IA communication, contributing to an 80.7% pick-up rate, which outperformed the overall DR total of 75.3%. In Madison County, partner-led outreach through church coalitions was credited with increasing IA uptake and reducing false registrations. The operation achieved "79% of our cases... the highest that we've ever had in the nation."
+• For the Kentucky Floods (DR 539-25), the IA pick-up rate in Warren County was 53.8%, significantly higher than the 34.3% rate for the disaster operation as a whole. Partners "had folks in hotels within 24 hours" whereas Red Cross sheltering "did take... 72 hours to stand up."
+• In the South Texas Floods (DR 503-25), CAP partners supported IA outreach in Cameron and Hidalgo Counties, resulting in a 58.3% pick-up rate, compared to the nationwide average of 51%.
+
+New and Enhanced Resource Provision: CAP partners provide new or significantly enhanced resources by leveraging their local assets, networks, and CAP-funded enhancements. This allows for a more flexible and comprehensive response that meets needs beyond traditional Red Cross services.
+• Logistical Assets: Partners utilize box trucks, vans, and shuttle vehicles—some funded by the Red Cross through CAP—for distributing supplies and transporting people. In DR 535 (MO/AR Storms), partners provided two box trucks and personnel, which enabled DES distribution to begin sooner. The program has also invested in vital equipment like forklifts to "unlock throughput" and increase what partners can distribute. Tennessee partners noted that "back in 2023 we were given a truck and some trailers" and a skid steer that "increased our ability by, I don't know, 3-4 hundred percent."
+• Gap-Filling Services: During the Tennessee Tornados (DR 540-25), partners delivered services that would have been difficult for the Red Cross to manage alone:
+  ◦ They provided and installed tarps on the first day, allowing people to remain safely in their homes.
+  ◦ They organized chainsaw crews and used skid steers for debris removal in hard-to-reach rural areas.
+  ◦ They arranged for mobile laundry services after the local laundromat was destroyed, a critical service for community hygiene and morale.
+• Specialized Services: During Hurricane Francine, a partner provided a mobile medical clinic that offered free services like tetanus shots and medical consultations during supply distributions. In other disasters, partners provided mobile health clinics and expanded casework for targeted recovery needs. Community stakeholders reported sustained psychosocial services extending beyond the acute phase of disasters.
+
+B. Cost Containment and Return on Investment (ROI)
+
+CAP partners contribute substantial in-kind donations and services, effectively defraying Red Cross operational costs and demonstrating a clear return on investment (ROI). The CAP initiative was initially launched in part to defray costs for the ARC. Documented partner contributions have significantly reduced operational costs by providing facilities, volunteers, meals, and supplies that the ARC would otherwise have to fund. Across multiple Disaster Relief Operations (DROs), CAP has generated over $1.6 million in total cost containment, showing a 28.3% ROI on partner enhancements.
+
+Monetized Partner Contributions: The CAP team meticulously tracks and monetizes partner contributions using a formula consistent with Red Cross data capture methodologies, such as the 5266 form. This cost containment analysis specifically calculates the value of partner contributions like meals, facilities, and volunteers, while excluding CAP staff salaries to focus on the value-added contributions from partners.
+
+These monetized contributions include:
+• Feeding assistance: Partners provide hot meals and food supplies that the Red Cross would normally fund. During DR 540-25 in Tennessee, partners provided all feeding services, with one DRO staff member reporting, "I did not pay a dime for feeding," as local communities and CAP partners covered the costs. Partners also use their local knowledge to provide culturally appropriate food, such as adapting menus to include rice and beans for Latino communities. In Kentucky (DR 539-25), partners provided 67,000 meals valued at $10 per meal.
+• Distribution of emergency supplies (DES): Partners leverage their own networks and resources to distribute supplies. These resources often include donated vehicles, such as box trucks, which partners use to deliver supplies and pallets of water directly into communities. This reduces the need for the ARC to order vehicles or deploy staff for distribution.
+• Volunteer efforts: CAP partners mobilize their own local volunteers for various tasks, reducing the need for Red Cross staff deployments. These volunteers assist with damage assessment (DDAO), distribution, and filling shelter shifts. During Hurricane Francine, CAP partners mobilized 53 local volunteers, saving an estimated $111,300 in volunteer costs. In Kentucky, "between 15 and 25 volunteers over 5 different days" conducted disaster assessments.
+• Facilities and donated spaces: Partners provide spaces for immediate assistance (IA) centers, cooling stations, or shelters, which eliminates facility rental costs for the Red Cross. For example, partners have opened centers for IA processing, with the ARC providing laptops for client use. During Hurricane Francine, donated facilities contributed to the nearly $250,000 in tracked cost containment.
+
+Here are specific examples of documented cost savings:
+• During Hurricane Francine (DR 207-25), CAP partners accounted for nearly $250,000 in tracked cost containment. This total included $131,937 in direct services (such as feeding, Distribution of Emergency Supplies [DES], and vehicles) and $111,300 in volunteer cost containment. Partners mobilized 53 local community volunteers to support relief efforts, which significantly reduced the need for deployed staff.
+• In DR 540-25 (Tennessee Tornados), leadership estimated that partner contributions offset $80,000 to $100,000 in immediate costs.
+• Kentucky April Storms (DR 539-25) saw significant substitution with partners providing feeding valued at $670,000 (67,000 meals at $10 each), hotel placements, and refrigerated logistics.
+• Overall, across multiple Disaster Relief Operations (DROs), CAP has generated $1,606,305 in total cost containment. This figure is based on partner enhancements totaling $5,669,272, representing a 28.3% ROI and a significant return for the Red Cross's investments in partner capabilities. These DROs include Francine, FLOCOM, Helene, South Texas Floods, MOAR Spring Storms, KY Spring Storms, TN Spring Storms, and Hill Country Floods.
+
+The ROI varies significantly based on the type of hazard and the type of partner involved:
+• ROI by Hazard Type:
+  ◦ Hurricane: 37.30%
+  ◦ Flooding: 25.53%
+  ◦ Tornado: 9.77%
+• ROI by Partner Type:
+  ◦ Resilience Hub: 33.48%
+  ◦ Community Gateway: 30.11%
+  ◦ Hunger: 26.33%
+  ◦ Health: 22.99%
+  ◦ Housing: 4.91%
+
+Challenges in Reporting
+Despite the clear evidence of savings, the actual cost containment may be even higher than what is documented. Interviewees and reports acknowledge "reporting shortfalls" and that cost-savings activities were not always consistently documented due to the dynamic nature of disaster response. One staff member admitted, "100% not everything got reported" regarding cost containment. Tennessee leaders noted that "everything that was done was not reported" and "It wasn't even on a report anywhere." This suggests a need for more streamlined and mandatory reporting mechanisms to fully capture the financial value partners provide.
+
+C. Speed of Response
+
+A consistent and powerful finding of the CAP evaluation is the program's ability to accelerate service delivery, often allowing local partners to respond more quickly than centralized Red Cross operations. This speed is a critical area of focus for the evaluation. Partners' ability to mobilize rapidly is attributed to their local presence, pre-existing relationships, local assets, and readiness built during non-disaster periods. One DRO leader noted that the ability to quickly mobilize a CAP partner, especially when Red Cross staff were constrained, allowed for an immediate presence and service delivery in affected counties. Pre-existing relationships and local capacity dramatically accelerate the initial disaster response.
+
+Same-Day/Next-Day Mobilization
+Partners are frequently the "first on the ground—feeding within hours" or activating the next day after impact, thanks to their established local readiness. This rapid mobilization significantly outpaces centralized responses.
+• During Hurricane Francine (DR 207-25), two hyper-local partners in Terrebonne Parish were providing hot meals by dinner on the day the storm abated. Within 24 hours of landfall, another partner had two library locations operating as cooling and charging centers for community members.
+• In the Madison County tornadoes (DR 540-25), church coalitions activated within 24 hours. This swift action helped increase Immediate Assistance (IA) uptake and reduce false registrations.
+• One partner organization noted that during hurricanes, they provided services "before, during and after just in time," feeling that community members were not left waiting for assistance.
+• Partners were on the ground within hours of the Tennessee tornadoes, providing tarps on the first day, which allowed people to remain in their homes. One partner reported: "After our conversation at around 6:30, his team arrived at the site by 8:00... distributed approximately 60 to 75 kits."
+• Community stakeholder interviews from Hurricanes Helene and Milton documented same-day distributions, late-night hotel placements, and multi-day feeding and medical outreach that stakeholders contrasted favorably with prior disasters.
+
+Faster DES Delivery
+A comparison of Disaster Emergency Supplies (DES) data from the top-damaged counties across several Disaster Relief Operations (DROs) shows that CAP partners delivered the first DES services one to four days faster than Red Cross efforts:
+• DR 539-25 (KY Floods): CAP partners were four days faster.
+• DR 540-25 (TN Tornados): CAP partners were three days faster.
+• DR 207-25 (Hurricane Francine): CAP partners were active on the same day.
+• DR 220-25 (FLOCOM), DR 503-25 (South Texas Floods), and DR 535-25 (MO/AR Storms): In each of these events, CAP partners were one day faster.
+
+Impact of Pre-disaster Relationships
+The speed of response is directly linked to the "transference of trust" and networks built during "blue-sky" (non-disaster) periods. These pre-existing relationships enable partners to act swiftly and effectively, as the groundwork has already been laid. Because partners already know who to call, they can self-deploy and get "boots on the ground" rapidly.
+• A DRO staff member noted, "It was almost like they went in with us together. There was no call up—we just went."
+• Another staff member stated, "Without the CAP program, it's a lot more knocking on doors."
+• Partners communicating before a storm helps make the response more efficient. The local chapter in Tennessee, for example, has a very good relationship with the CAP team and includes them in readiness calls, so partners are aware of needs ahead of time.
+• Kentucky's Warren County Resilience Coalition held quarterly meetings and disaster exercises, enabling rapid coordination when disasters struck.
+
+V. Key Findings: Steady State Impacts ("Halo Effect")
+
+Beyond immediate disaster response, CAP demonstrates a significant "Halo Effect," contributing to broader community resilience and enhancing the American Red Cross's mission in non-disaster ("steady-state") periods. Trevor Reagan, President of Humanitarian Services, has expressed particular interest in these broader impacts.
+
+A. Coalition Building and Community Trust
+
+"Connecting the dots" and Fostering Partnerships
+CAP's initiative to build coalitions and help partners work with other partners is recognized as a successful pathway to community resilience. This involves "connecting the dots" between diverse groups, including churches, grassroots organizations, and cross-sector partners, to strengthen community networks before, during, and after disasters.
+• Coalition Models: An example of this success is the Warren County Resilience Coalition in Kentucky, which brought together local nonprofits, faith-based organizations, and government agencies to enhance disaster readiness. One partner noted that Red Cross is "really good at that collaboration piece of having us meet...in a group setting and having us learn about each other and what we can provide." This pre-disaster relationship building was essential for a coordinated response during the Kentucky floods.
+• Steady state interviews with CAP staff like Glama Carter documented extensive coalition-building efforts across multiple jurisdictions, creating lasting partnerships that persist between disasters.
+• Community stakeholders emphasized CAP's role as a strategic convener, aligning nonprofit, government, and national actors while providing critical blue-skies resources like generators, refrigeration units, and vehicles.
+
+B. Impact on Red Cross Steady-State Programs
+
+Volunteer Engagement
+While volunteer recruitment was not an initial goal of the CAP program, jurisdictions with CAP teams show positive trends in volunteer engagement. In fact, when the program was established, partners were told they did not need to volunteer for the Red Cross and that the ARC would not try to "steal" their volunteers. Despite this, having an increased Red Cross presence and awareness in communities appears to be causing more people to volunteer.
+• Quantitative Data: An analysis comparing the fiscal years with a CAP team in place (FY23–FY25) to the period before (FY20–FY22) reveals a significant increase in volunteers.
+  ◦ CAP Jurisdictions experienced a +35.92% increase in average annual total volunteers.
+  ◦ This growth is significantly higher than the national average increase of +16.05% during the same period.
+  ◦ The hypothesis that volunteer recruitment would be higher in CAP jurisdictions is one of the areas the evaluation sought to validate.
+• Qualitative Context: The quantitative data is supported by qualitative interviews. Although some interviewees have expressed uncertainty about directly attributing volunteer increases to CAP, the presence of local teams who build relationships and raise awareness is seen as a key factor. Having a visible, trusted presence helps people see the Red Cross's daily work and motivates grassroots volunteering.
+
+Community Preparedness and Safety
+The new data reflects a comprehensive analysis of steady-state programs, comparing the fiscal years with a CAP team in place (FY23–FY25) to the period before (FY20–FY22).
+• Home Fire Responses: CAP Jurisdictions saw a +10.51% increase in average annual home fire responses. This is a significant positive trend when compared to a national decrease of -2.41% during the same period.
+• "Homes Made Safer": The impact is even more striking for preparedness outcomes. "Homes Made Safer" initiatives increased by +66.24% in CAP Jurisdictions, far surpassing the national increase of +14.02%.
+• Specific Jurisdictional Examples: The sources provide specific examples of dramatic increases in "Homes Made Safer":
+  ◦ Cameron County, TX: +1366.67%
+  ◦ Butte County, CA: +828.57%
+  ◦ Montgomery County, AL: +167.39%
+  ◦ Sarasota County, FL: +165.47%
+
+Youth Preparedness: CAP's work helps extend preparedness education to youth.
+• Quantitative Data: CAP Jurisdictions demonstrated a +101.23% increase in average annual youth reached (FY23-FY25 vs. FY20-FY22), significantly higher than the national average increase of +39.13%.
+
+Blood Drive Support: Some CAP teams, particularly in areas with Red Cross biomed presence, assist in incorporating partners into blood drives.
+• Quantitative Data: While CAP Regions and Chapters showed slight decreases in blood units collected, CAP Jurisdictions experienced a -2.26% decrease, compared to a national increase of +0.03%. This area may require further investigation or different metrics to fully capture CAP's contribution.
+
+C. Averting Red Cross Brand Risk
+
+An often-unseen but critical impact of CAP is its role in mitigating potential negative perceptions and service delivery failures for the Red Cross.
+• In FY25, CAP Partners contributed to resolving or preventing 12 service delivery failures or issues on Level 3+ DROs, helping to avert broader negative media coverage or public perception challenges for the Red Cross. This indicates that the local, responsive nature of CAP can act as a buffer against brand risk.
+• CAP's local presence and partner networks act as a critical buffer against negative public perception.
+
+VI. Challenges, Limitations, and Areas for Improvement
+
+While CAP demonstrates significant value, the evaluation also candidly identifies areas needing improvement, potential risks, and limitations inherent in the program's current structure and the evaluation itself. These aspects are crucial for leadership to consider when planning CAP's future.
+
+A. Integration Gaps and Perception of Separateness:
+• Internal Perception: CAP is "often perceived as separate from Disaster Services," leading to "confusion and occasional resentment" among Red Cross staff. This can manifest as staff feeling CAP has "greater resources or special status."
+• Operational Challenges: The lack of clear integration between CAP Liaisons/teams and broader DRO/Regional leadership can lead to inefficiencies. For instance, a DRO staff member noted that CAP "needs to be a part of Disaster Services—not be an exclusive group" as the current setup can be "harmful" due to differences in pay scale and travel budgets. Clear role clarity is needed, especially during the transition from "blue sky" to DRO operations.
+• Coordination Issues: Community stakeholders reported that "Coordination between CAP and other established groups/nonprofits needed improvement," with CAP and other coalitions (e.g., COAD) sometimes holding "separate meetings," causing confusion. This suggests a need for "a better understanding of CAP and the role they play" to avoid divisiveness rather than duplication of services.
+
+B. Uneven Partner Engagement and Hyper-Local Blind Spots:
+• Localism vs. Regional Needs: While CAP's hyper-local focus is a strength, it can lead to "uneven partner engagement," leaving some counties underserved, or "hyper-local blind spots" where focus on one community diverts attention from broader regional impacts.
+• Limited Geographical Reach: In some instances, CAP partners were "limited to serve in the county," even when need extended beyond those boundaries, limiting their overall impact on a broader DRO. Kentucky interviews noted that "CAP is only in a few counties across the country."
+• Dependency on Specific Individuals: The success of CAP often relies heavily on the capabilities and willingness of individual liaisons or partners. As one DRO staff member noted, "It is important for the liaison to be an expert about the community," but this can be a difficult and potentially unsustainable barrier.
+
+C. Reporting Shortfalls and Expectation Management:
+• Inconsistent Documentation: "Cost-savings and activities were not consistently documented." Interviewees admitted that "100% not everything got reported" regarding cost containment, indicating a need for more streamlined and mandatory reporting mechanisms. Tennessee interviews revealed that "there were a lot of numbers and cost savings being touted that I don't know that anyone could really prove."
+• Managing Community Expectations: Communities sometimes "expected more financial assistance than could be delivered," leading to disappointment. Clear communication about the scope of Red Cross assistance and CAP's role is crucial to manage these expectations effectively.
+
+D. Scalability Concerns for the Dedicated CAP Team Model:
+• Unsustainable Staffing: The current model of dedicated three-person CAP teams in each jurisdiction is explicitly recognized as "not sustainable or scalable" nationwide due to resource limitations. It would be "beautiful if we did" have the funds for such widespread staffing, but it's not feasible.
+• Challenges in Large-Scale Disasters: The personalized, grassroots approaches that make CAP successful at the local level "may not translate to large-scale Level 5–7 disasters," posing questions about its effectiveness in the most severe events.
+
+E. Evaluation Methodological Limitations:
+
+The evaluation acknowledges several limitations, ensuring transparency in findings:
+• Selection Bias: Partners self-selected for CAP may be uniquely motivated or better-resourced than typical community organizations.
+• Confounding Factors: Other independent faith or mutual-aid groups may operate concurrently, making it difficult to isolate CAP's specific impact.
+• Measurement Error: Inconsistent cost capture and ambiguous reporting lines complicate precise attribution of financial savings.
+• Lack of Counterfactuals: The absence of systematically measured matched non-CAP counties with identical disaster exposures limits the ability to draw direct comparative conclusions in all cases.
+• As noted in the September 2025 Community Stakeholder analysis: "The evaluation evidence base is rich in stakeholder interviews, partner narratives, and program reports but lacks centralized quantitative outcome tracking, counterfactual comparisons, and consolidated cost data—limiting definitive causal attribution and formal cost-effectiveness conclusions."
+
+Despite these challenges, the multiplicity of concordant accounts and the presence of unique CAP-funded capabilities (e.g., skid steers, refrigerated trucks) provide a moderate to strong indication of CAP's positive impact. Addressing these limitations and challenges is key to refining CAP for future success and broader integration.
+
+VII. Scalability and Adaptation: Lessons for the Future
+
+The evaluation clearly indicates that while the dedicated three-person CAP team model is not sustainable nationwide, the program has generated critical lessons and replicable tactics that can be embedded into wider Red Cross operations. The focus must now shift to how CAP's successes can be adapted and integrated as a "force multiplier" across chapters, regions, and DROs without the current dedicated CAP resources.
+
+A. Towards a Sustainable Model:
+
+The core question for leadership is "what can we take from CAP that we can scale it and adapt and integrate more broadly across Red Cross operations, chapters, regions, disasters, which has to really coverage that dedicated cap resources." This means identifying practices that work, sustainable staffing models, and clear pathways into the existing Red Cross structure.
+• Focus on Core Strengths: The evaluation consistently highlights relationship-building, partner readiness, and leveraging local networks as CAP's most impactful contributions to improving service quality, reducing costs, and speeding up response.
+• Resilience Hubs and Key Sectors: While CAP focuses on "3Hs" (health, housing, hunger), food and health-focused partners are generally "easier to support" and show more consistent impact, especially for immediate needs. Housing initiatives, while critical, are more challenging to scale through partners.
+
+B. Actionable Recommendations for Red Cross Leadership:
+
+The findings lead to several strategic recommendations designed to embed CAP practices into the American Red Cross's operational fabric:
+
+1. Invest in "Blue-Sky" Relationships:
+• Recommendation: Prioritize and institutionalize ongoing relationship-building with hyper-local partners before disasters strike. This foundational work builds trust, creates awareness of capabilities, and significantly accelerates response when needed.
+• Implication: Allocate resources for consistent community engagement and networking at the chapter and regional level, moving beyond a purely disaster-focused interaction.
+
+2. Leverage Local Credibility and Reduce Duplication:
+• Recommendation: Actively use local nonprofits as trusted messengers to reach vulnerable groups. Furthermore, plug into existing coalitions and networks rather than recreating them to avoid duplication and maximize resource impact.
+• Implication: Red Cross should position itself as a facilitator and enabler of local resilience, integrating into existing community structures.
+
+3. Prioritize Cultural and Language Access:
+• Recommendation: Actively partner with groups who already deliver culturally competent services. This includes organizations capable of providing language translation, culturally appropriate supplies (e.g., food), and trusted community messengers.
+• Implication: Enhance the Red Cross's ability to serve diverse populations effectively and respectfully, leading to higher service uptake and community trust.
+
+4. Shift from Service Provider to Network Builder:
+• Recommendation: Reframe the Red Cross's role to focus on enabling local resilience and capacity building rather than solely delivering aid. This involves supporting partners in building their capacity through modest investments and training.
+• Implication: This strategic shift leverages the strengths of local partners, extending the Red Cross's reach and impact sustainably.
+
+5. Clarify Roles, Manage Expectations, and Train Staff in Partnership Management:
+• Recommendation: Define clear responsibilities with nonprofits to avoid confusion and resentment. This includes setting expectations pre-disaster about what partners can and should do, and how long they can sustain efforts.
+• Recommendation: Train Red Cross staff, especially CAP Liaisons, in partnership management and deploy them early to leadership tables. This ensures liaisons understand operational needs, can articulate partner capabilities, and convert partner offers into actionable tasks. This training should include deployment experience in Operations or External Relations.
+• Implication: Improved collaboration and reduced friction between CAP, DRO, and regional teams, maximizing partner contributions and Red Cross efficiency. The concept of "From CAP to Chapter Integration" represents a desired future state where CAP's best practices are embedded within the regular Red Cross structure, perhaps with "one dedicated person" per region for partnership management if a full three-person team isn't scalable.
+
+6. Document and Demonstrate Cost Savings:
+• Recommendation: Implement mandatory nightly cost capture for in-kind offsets and establish low-friction reporting channels to accurately track partner contributions. As DRO leadership in Kentucky noted, "we need that count every single night."
+• Implication: Provides auditable data to justify investments in partnerships and clearly demonstrate the financial value CAP brings to the Red Cross.
+
+7. Plan for Continuity Beyond Red Cross:
+• Recommendation: Design exit strategies that leave nonprofits able to continue recovery efforts beyond direct Red Cross engagement. This includes supporting their capacity and networks to sustain impact.
+• Implication: Fosters long-term community resilience and self-sufficiency, aligning with CAP's broader goals.
+
+8. Expand Modest Community Grants:
+• Recommendation: Increase investment in "modest community grants" and equipment enhancements (e.g., refrigerated trucks, forklifts, box trucks) for partners to "unlock throughput" and expand their ability to deliver services.
+• Implication: Directly enhances partner capabilities, leading to more efficient and impactful disaster response and sustained community services.
+
+9. Formalize Pre-event MOUs and Asset Management:
+• Recommendation: As emphasized in September 2025 stakeholder interviews, preposition and maintain blue-skies assets (generators, refrigeration, vehicles, radios) at designated resilience hubs under host-site MOUs with maintenance schedules and inventory tracking.
+• Implication: Documented asset investments materially increased local continuity of services; making these standardized, maintained investments across prioritized hubs will expand equitable reach and reduce time-to-service.
+
+10. Institutionalize the CAP Liaison Role:
+• Recommendation: Ensure CAP liaisons have an empowered seat at leadership tables with training and system access. Multiple DROs credited strong liaison presence with enabling rapid partner responsiveness.
+• Implication: Converting pre-event awareness into immediate field action through formalized liaison roles.
+
+VIII. Conclusion
+
+The Community Adaptation Program (CAP) evaluation reveals a compelling narrative: CAP is a well-loved and widely valued program that delivers measurable operational and strategic benefits to the American Red Cross. Through its model of trusted hyperlocal partnerships, modest pre-event investments, and embedded liaison integration, CAP has demonstrably achieved its core objectives.
+
+The program significantly accelerates initial aid delivery, with partners often being the first on the ground, sometimes days ahead of centralized responses. It has proven highly effective in improving service quality by expanding reach to "invisible populations" and ensuring culturally appropriate aid, leading to higher client uptake and dignity. Critically, CAP generates meaningful cost containment by leveraging partner resources and in-kind contributions, evidenced by a 28.3% ROI on enhancements and substantial savings during large-scale operations.
+
+Beyond immediate disaster response, CAP's "Halo Effect" fosters coalition-building, builds crucial rural trust, and enhances the Red Cross's overall reputation and steady-state program outcomes, including significant increases in volunteer engagement, "Homes Made Safer" initiatives, and youth preparedness in CAP jurisdictions. Furthermore, it plays a vital role in averting brand risk by resolving localized service delivery issues.
+
+While the evaluation transparently highlights challenges—such as integration gaps, uneven partner engagement, reporting shortfalls, and the non-scalability of the dedicated three-person team model—it also clearly delineates actionable lessons and replicable tactics. These lessons emphasize the enduring value of investing in blue-sky relationships, leveraging local credibility, ensuring cultural responsiveness, and strategically embedding partnership management within the Red Cross's existing chapter and regional structures.
+
+In conclusion, CAP is more than just a program; it represents a strategic shift towards community-centered humanitarian services. By continuing to support and adapt CAP's most effective principles, the American Red Cross can enhance its disaster capacity, strengthen community ties, and maintain its position as a trusted and effective humanitarian leader in an evolving disaster landscape. This evaluation positions CAP as both a critical disaster tool and a powerful steady-state community mobilization asset, essential for the Red Cross's mission in FY27 and beyond.
